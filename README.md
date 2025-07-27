@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vo Van Quang</h1>
-<h3 align="center">A passionate C# developer from Viet Nam</h3>
+<h3 align="center">A passionate C# and ReactJs developer from Viet Nam</h3>
 
-- 🌱 I’m currently learning **C#, REACTJS, .NET Framework**
+- 🌱 I’m currently learning **C#, ReactJs, .NET Framework**
 
 - 👨‍💻 All of my projects are available at [https://github.com/quangvo5803](https://github.com/quangvo5803)
 
