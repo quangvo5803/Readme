@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/quangvv5803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quangvv5803" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/vvq5803/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/vvq5803/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/vvq5803/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/vvq5803/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
